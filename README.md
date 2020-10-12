@@ -1,4 +1,4 @@
-![Con titulo]((https://user-images.githubusercontent.com/32285482/95798258-12451d80-0cb7-11eb-9015-99941ddf0524.png "titulo")
+![Con titulo](https://user-images.githubusercontent.com/32285482/95798258-12451d80-0cb7-11eb-9015-99941ddf0524.png "titulo")
 <!--
 **carlacentenor/carlacentenor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
